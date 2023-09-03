@@ -1,0 +1,14 @@
+.dice {
+    background-color: #FFFFFF;
+    box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.15);
+
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dice.selected {
+    background-color: #59E391;
+}
